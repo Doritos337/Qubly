@@ -26,4 +26,5 @@ This project demonstrates adaptive layouts, smooth interactions, and clean, main
 
 ## 👨‍💻 Author
 
-Developed by [YourUsername](https://github.com/Doritos337)
+Developed by [Doritos337](https://github.com/Doritos337)
+
